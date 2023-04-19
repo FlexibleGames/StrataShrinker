@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "modid": "stratashrinker",
+  "name": "Strata Shrinker",
+  "authors": [ "Flexible Games" ],
+  "description": "Allows editing of hidden TerraGen RockStrata Variables and MagicNum Region Size in Chunks.",
+  "side": "server",
+  "website": "https://www.youtube.com/c/FlexibleGames",  
+  "version": "1.0.0",
+  "dependency": {}
+}
